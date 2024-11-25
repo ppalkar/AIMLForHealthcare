@@ -1,0 +1,10 @@
+Final Training Metrics
+=====================
+
+Box Loss: 2.2278
+Class Loss: 1.6201
+DFL Loss: 0.9337
+Precision: 0.4679
+Recall: 0.4344
+mAP50: 0.4245
+mAP50-95: 0.2074

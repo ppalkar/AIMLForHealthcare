@@ -1,0 +1,15 @@
+Model Performance Summary
+========================
+
+Detection Metrics:
+Precision: 0.5925
+Recall: 0.4113
+mAP50: 0.4408
+mAP50-95: 0.2100
+Fitness Score: 0.2331
+
+Speed Metrics:
+preprocess: 0.2535ms
+inference: 7.0041ms
+loss: 0.0019ms
+postprocess: 1.0586ms
